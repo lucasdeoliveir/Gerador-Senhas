@@ -36,9 +36,7 @@ Todo o processamento ocorre **localmente no navegador** — nenhum dado é envia
 
 ## Demonstração
 
-![Captura de tela do Gerador de Senhas](docs/screenshot.png)
-
-> _Substitua pela captura real após executar o projeto._
+![Captura de tela do Gerador de Senhas](docs/demo.png)
 
 ---
 
